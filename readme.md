@@ -19,3 +19,5 @@ Built using:
 - html5
 - css
 - Skeleton front end framework (css)
+
+view screenshot: https://github.com/mdmullendore/php-form-validation/blob/master/screenshot.png
